@@ -49,8 +49,3 @@
 <p align="left">Soft Skills: 👥 Teamwork | 🗣️ Communication | 🔄 Adaptability | 🗂️ Organisation | 👑 Leadership<br><br>Technical Skills: 🛡️ Palo Alto | 🐙 WireShark | 🕵️‍♂️ Ethical Hacking | 🔐 Network Security | 🌐 Web Application Pen Testing | 🦠 Malware Analysis Tools & Techniques</p>
 
 ###
-
-<br clear="both">
-
-
-###
